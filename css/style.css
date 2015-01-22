@@ -68,11 +68,11 @@ html{
      min-height:100%;
      }
 
-ul{
+.cvitems ul{
 	padding-left: 15px;
 	list-style-position: outside;
 }
-li{
+.cvitems li{
 	padding-top:10px;
 }
 
