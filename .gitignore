@@ -1,5 +1,4 @@
-*.swp
-node_modules
-*.sublime-project
-*.sublime-workspace
-
+_site
+.sass-cache
+.jekyll-metadata
+deploy

@@ -1,0 +1,7 @@
+---
+layout: timeline
+title: 2012
+subtitle:
+image: "img/timeline/net_logo.png"
+---
+Wrote my [Bachelor thesis](http://filepool.informatik.uni-goettingen.de/publication/ifi/theses/2011/ZAI-BSC-2011-18-kloht.pdf) at the computer-networks group on identity-based encryption in email spam filtering. Implemented a prototype in C.

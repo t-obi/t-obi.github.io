@@ -1,0 +1,7 @@
+---
+layout: timeline
+title: 2008
+subtitle:
+image: "img/timeline/logo-uni-goettingen.jpg"
+---
+Moved to Göttingen to study Computer Science.

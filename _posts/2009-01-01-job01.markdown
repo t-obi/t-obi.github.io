@@ -1,0 +1,7 @@
+---
+layout: timeline
+title: 2009
+subtitle:
+image: "img/timeline/logo-java.png"
+---
+Got my first Job as a teaching assistant for an introductory Java course.

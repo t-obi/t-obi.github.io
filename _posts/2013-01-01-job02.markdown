@@ -1,0 +1,7 @@
+---
+layout: timeline
+title: 2013
+subtitle:
+image: "img/timeline/logo-intact.jpg"
+---
+Moved to Berlin. Started working at Intact GmbH, where I automated complex workflows in Jira, Confluence and SalesForce. On the side I am studying for a Master degree in Computer Science.
